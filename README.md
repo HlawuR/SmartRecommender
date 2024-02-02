@@ -1,59 +1,23 @@
-# Unsupervised-Learning-Sprint-2307FTDS-Team-NM4
 
-# Project Name
-Challenge Description
-In today’s technology driven world, recommender systems are socially and economically critical for ensuring that individuals can make appropriate choices surrounding the content they engage with on a daily basis. One application where this is especially true surrounds movie content recommendations; where intelligent algorithms can help viewers find great titles from tens of thousands of options. Ever wondered how Netflix, Amazon Prime, Showmax, Disney and the likes somehow know what to recommend to you? It's not just a guess drawn out of the hat. There is an algorithm behind it.
+## Objective
+**Classification Model Development:** The primary objective is to create a movie recommender system used by streaming services
 
-With this context, EA is challenging you to construct a recommendation algorithm based on content or collaborative filtering, capable of accurately predicting how a user will rate a movie they have not yet viewed based on their historical preferences.
+**Business Impact:** This recommender system 
 
-# Table of Contents
-- [Introduction]
-- [Problem Statement]
-- [Data Overview]
-- [Exploratory Data Analysis]
-- [Feature Engineering]
-- [Modeling]
-- [Challenges and Limitations]
-- [Recommendations]
-- [Conclusion]
+## Team Members
+- Bakwe Chokoe: [b.chokoe@gmail.com](mailto:b.chokoe@gmail.com)
+- Tshepiso Ngwato: [tshepisongwato6@gmail.com](mailto:tshepisongwato6@gmail.com)
+- Tshivhase Mutondi: [tmutondi@gmail.com](mailto:tmutondi@gmail.com)
+- Hlawulekani Rikhotso: [hlawulekanirikhotso@gmail.com](mailto:hlawulekanirikhotso@gmail.com)
+- Benson Kamau: [benka874.bk@gmail.com](mailto:benka874.bk@gmail.com)
+- Nozie Bhila: [noziphopretty98@gmail.com](mailto:noziphopretty98@gmail.com)
+## Links
+- [Trello Board: Classification Sprint Trello Board](https://trello.com/b/veqvHw7W/unsupervised-learning-sprint-2307ftds-team-nm4)
+- [GitHub Notebook: Classification Sprint Notebook](https://github.com/Buckweed2020/Unsupervised-Learning-Sprint-2307FTDS-Team-NM4)
+- [Streamlit App: Classification Predict Streamlit Template](https://github.com/Buckweed2020/unsupervised-predict-streamlit-template)
 
-Introduction
+## Additional Details
+- **Presentation:** [View Presentation](https://docs.google.com/presentation/d/1C1fOMQe7nw44Oswak4tYfsSslwUCvHhC/edit#slide=id.p11)
+**Note:** The app created by our team is called 
 
-
-Problem Statement
-
-
-
-Data Overview
-- [genome_scores.csv - a score mapping the strength between movies and tag-related properties.]
-- [genome_tags.csv - user assigned tags for genome-related scores]
-- [imdb_data.csv - Additional movie metadata scraped from IMDB using the links.csv file.]
-- [links.csv - File providing a mapping between a MovieLens ID and associated IMDB and TMDB IDs.]
-- [sample_submission.csv - Sample of the submission format for the hackathon.]
-- [tags.csv - User assigned for the movies within the dataset.]
-- [test.csv - The test split of the dataset. Contains user and movie IDs with no rating data.]
-- [train.csv - The training split of the dataset. Contains user and movie IDs with associated rating data.]
-
-Exploratory Data Analysis (EDA)
-
-In this section, we viewd the data , worked on some preprocessing to otline the key features needed a deeper look at. We also created some features to analyze some of the unique trends in the data.
-
-Feature Engineering
-
-Modelling
-
-Challenges and Limitations
-
-Recommendations
-
-Conclusion
-
-Team
-
-Bakwe Chokoe,Tshepiso Ngwato, Hlawulekani Rikhotso, Tshivhase Mutondi, Benson Kamau, Nozie Bhila
-
-Acknowledgments
-
-Contact
-
-[https://www.kaggle.com/competitions/ea-movie-recommendation-predict-2023-2024/overview]
+Feel free to explore our [GitHub repository](https://github.com/Buckweed2020/Unsupervised-Learning-Sprint-2307FTDS-Team-NM4) and [Streamlit App repository](https://github.com/Buckweed2020/unsupervised-predict-streamlit-template) for further details. If you have any inquiries or collaboration opportunities, please reach out to the respective team members via the provided email addresses.
