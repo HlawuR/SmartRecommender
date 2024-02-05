@@ -15,7 +15,7 @@ This project is a pivotal initiative by Data Crafters, a data science company co
 - Tshivhase Mutondi: [tmutondi@gmail.com](mailto:tmutondi@gmail.com)
 - Hlawulekani Rikhotso: [hlawulekanirikhotso@gmail.com](mailto:hlawulekanirikhotso@gmail.com)
 - Benson Kamau: [benka874.bk@gmail.com](mailto:benka874.bk@gmail.com)
-- Nozie Bhila: [noziphopretty98@gmail.com](mailto:noziphopretty98@gmail.com)
+- Nozipho Bhila: [noziphopretty98@gmail.com](mailto:noziphopretty98@gmail.com)
 
 ## Additional Details
 - **Presentation:** [View Presentation](https://docs.google.com/presentation/d/1C1fOMQe7nw44Oswak4tYfsSslwUCvHhC/edit#slide=id.p11)
