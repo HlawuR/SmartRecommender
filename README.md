@@ -20,7 +20,7 @@ Ten Recommender System was created by a team of engineers from Datafracfters. Fe
 - Benson Kamau: [benka874.bk@gmail.com](mailto:benka874.bk@gmail.com)
 - Nozie Bhila: [noziphopretty98@gmail.com](mailto:noziphopretty98@gmail.com)
 
-Our model is available at the following link: 
-https://drive.google.com/file/d/1M3hOuyhnpzUfhK94V6PU3IF6HsBj-9JH/view?usp=sharing
+files used for training, as well as our model, are available at the following link: 
+https://drive.google.com/drive/folders/1vXLnPHSx3JIwE6symIx1DiqU7eAC6uWe?usp=sharing
 
-The notebook contains several other models in adition to this one. available on request :) 
+The notebook contains several other models in addition to this one. available on request :) 
