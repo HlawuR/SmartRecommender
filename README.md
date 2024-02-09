@@ -14,7 +14,6 @@ This project is a pivotal initiative by Data Crafters, a data science company co
 Ten Recommender System was created by a team of engineers from Datafracfters. Feel free to contact any one of the following should you have questions, suggestions or want to enquire about DataCrafter's services
 
 - Bakwe Chokoe: [b.chokoe@gmail.com](mailto:b.chokoe@gmail.com)
-- Tshepiso Ngwato: [tshepisongwato6@gmail.com](mailto:tshepisongwato6@gmail.com)
 - Tshivhase Mutondi: [tmutondi@gmail.com](mailto:tmutondi@gmail.com)
 - Hlawulekani Rikhotso: [hlawulekanirikhotso@gmail.com](mailto:hlawulekanirikhotso@gmail.com)
 - Benson Kamau: [benka874.bk@gmail.com](mailto:benka874.bk@gmail.com)
