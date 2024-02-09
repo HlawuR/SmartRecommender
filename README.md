@@ -1,6 +1,6 @@
 # Data Crafters - Movie Recommender System.
 
-
+![Data Crafters Logo](https://cdn.discordapp.com/attachments/1195167568344916038/1204860511519252480/Company_Logo.png?ex=65d644cb&is=65c3cfcb&hm=b633f02874535f765c25a546b285e0710c72236fce9141e6f5a21ff96e561531&)
 
 ## Project Overview
 This project is a pivotal initiative by Data Crafters, a data science company contracted by Popcorn Marvel studio to create a Movie Recommender System for them in order to keep their customers captivated with movies specifically recommended for them. Our goal is to develop an innovative app, called Ten Recommender System to enhance the viewer experience and keep then captivated in addition to bringing more revenue to Popcorn Marvel studio.
